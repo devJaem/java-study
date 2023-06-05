@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/chap06-objec" />
+            <option value="$PROJECT_DIR$/chap07-object-array" />
+            <option value="$PROJECT_DIR$/chap08-inheritance" />
+            <option value="$PROJECT_DIR$/chap09-polymorphism" />
+            <option value="$PROJECT_DIR$/chap10-api" />
+            <option value="$PROJECT_DIR$/chap15-enum" />
+            <option value="$PROJECT_DIR$/chap16-lambda" />
+            <option value="$PROJECT_DIR$/chap17-stream" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
