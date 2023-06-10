@@ -7,3 +7,5 @@ include("chap16-lambda")
 include("chap17-stream")
 include("chap10-api")
 include("chap06-objec")
+include 'chap05-array'
+

@@ -9,15 +9,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/chap05-array" />
-            <option value="$PROJECT_DIR$/chap06-objec" />
-            <option value="$PROJECT_DIR$/chap07-object-array" />
-            <option value="$PROJECT_DIR$/chap08-inheritance" />
-            <option value="$PROJECT_DIR$/chap09-polymorphism" />
-            <option value="$PROJECT_DIR$/chap10-api" />
-            <option value="$PROJECT_DIR$/chap15-enum" />
-            <option value="$PROJECT_DIR$/chap16-lambda" />
-            <option value="$PROJECT_DIR$/chap17-stream" />
           </set>
         </option>
       </GradleProjectSettings>
